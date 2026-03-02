@@ -1,0 +1,11 @@
+# Data
+data/raw/
+*.csv
+*.xls
+*.xlsx
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
